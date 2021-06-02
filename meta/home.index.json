@@ -1,0 +1,31 @@
+{
+  "ownKey": "home",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "\"https://ezyagric.github.io\"",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "\"https://ezyagric.github.io\""
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<h1 id=\"kotlinproject\"><a href=\"#kotlinproject\" id=\"kotlinproject\" class=\"anchor\"><\/a>KotlinProject<\/h1>\n<p>This is a short description of this project.<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "\"https://ezyagric.github.io\"",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "\"https://ezyagric.github.io\"/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}

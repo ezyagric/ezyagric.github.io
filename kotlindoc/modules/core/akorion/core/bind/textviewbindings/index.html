@@ -1,0 +1,2539 @@
+<!DOCTYPE HTML>
+<!--
+    Editorial by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+
+
+
+
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+<meta name="generator" content="Orchid 0.21.0"/>
+<link rel="icon" href="&quot;https://ezyagric.github.io&quot;/favicon.ico">
+
+
+<meta name="robots" content="index, follow">
+
+
+
+<title>TextViewBindings</title>
+
+
+<meta name="description" content="Conclusive wiki on app.">
+
+
+
+
+
+<!-- start:inject styles -->
+<link rel="stylesheet" type="text/css" href=""https://ezyagric.github.io"/Editorial/cb18023e/assets/css/editorial_main.css"  />
+<link rel="stylesheet" type="text/css" href=""https://ezyagric.github.io"/Editorial/cb18023e/assets/css/editorial_orchidCustomizations.css"  />
+<link rel="stylesheet" type="text/css" href=""https://ezyagric.github.io"/Editorial/cb18023e/assets/css/orchidSearch.css"  />
+<link rel="stylesheet" type="text/css" href=""https://ezyagric.github.io"/assets/css/orchidSearch.css"  />
+<link rel="stylesheet" type="text/css" href=""https://ezyagric.github.io"/assets/css/orchidSourceDoc.css"  />
+<!-- end:inject styles -->
+
+
+
+
+
+<!-- start:debug info -->
+
+<!-- THEME -->
+<!-- Type: Editorial -->
+<!-- Class: com.eden.orchid.editorial.EditorialTheme -->
+
+<!-- PAGE -->
+<!-- Type: classes -->
+<!-- Class: com.eden.orchid.sourcedoc.page.SourceDocPage -->
+<!-- Layout: index -->
+<!-- Resolved Layout: templates/layouts/index.peb -->
+<!-- Page Template: kotlindocObject, sourceDocPage, classes, page -->
+<!-- Resolved Page Template: templates/pages/sourceDocPage.peb -->
+
+<!-- RESOURCE -->
+<!-- Class: com.eden.orchid.sourcedoc.page.SourceDocResource -->
+<!-- Source Filename:  -->
+
+<!-- COMPLETE PAGE CONFIGURATION -->
+<script>
+    window.allData = {"reference":{"path":"kotlindoc/modules/core","baseUrl":"\"https://ezyagric.github.io\"","fileName":"akorion/core/bind/textviewbindings","extension":"html","usePrettyUrl":true,"link":"\"https://ezyagric.github.io\"/kotlindoc/modules/core/akorion/core/bind/textviewbindings"},"description":"","title":"TextViewBindings"};
+</script>
+
+<!-- end:debug info -->
+
+
+
+<script>
+    window.site = {"orchidVersion":"0.21.0","baseUrl":"\"https://ezyagric.github.io\"","environment":"debug","version":"1.0.0"};
+</script>
+
+
+    <!-- start:inject meta-components [head] -->
+    
+
+        
+            
+        
+
+        
+            
+        
+    
+    <!-- end:inject meta-components [head] -->
+
+
+
+    <!-- start:inject meta-components [head] -->
+    
+    <!-- end:inject meta-components [head] -->
+
+
+
+
+
+
+
+</head>
+<body class="is-loading">
+
+
+
+
+
+    <!-- start:inject meta-components [bodyStart] -->
+    
+
+        
+            
+        
+
+        
+    
+    <!-- end:inject meta-components [bodyStart] -->
+
+
+
+    <!-- start:inject meta-components [bodyStart] -->
+    
+    <!-- end:inject meta-components [bodyStart] -->
+
+
+
+
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Main -->
+    <div id="main">
+        <div class="inner">
+
+            <!-- Header -->
+            
+                <header id="header">
+    <a href=""https://ezyagric.github.io"" class="logo">EzyAgric Farmer</a>
+    <ul class="icons">
+    
+    
+        <li>
+            <a href="https://github.com/ezyagric/ezyagric_farmer_app_2020" class="icon fa-github">
+                <span class="label">github</span>
+            </a>
+        </li>
+    
+    
+    </ul>
+</header>
+
+            
+            
+            
+            
+                <section id="pageContent">
+                    <header class="major"><h2>TextViewBindings</h2></header>
+                    <article>
+                        
+    <!-- start:inject components -->
+    
+        
+            
+                
+                    
+                        <div class="sourcedoc-page orchid-sourcedoc content">
+  
+<div class="sourcedoc-section section-root section-level-1" id="TextViewBindings">
+
+
+  
+
+  
+    <div class="sourcedoc-section section-element" id="877fe00de64c99b0c0e5408968cd905d30d25e44">
+      
+      <p class="sourcedoc-section section-signature">
+        <code>object <a href=""https://ezyagric.github.io"/kotlindoc/modules/core/akorion/core/bind/textviewbindings">TextViewBindings</a>: Any</code>
+      </p>
+
+      
+        
+    <!-- start:inject components -->
+    
+    <!-- end:inject components -->
+
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Databinding utilities for <a href="#">TextView</a></p>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-2" id="methods">
+
+
+  
+    <h2 class="sourcedoc-section section-name">Methods</h2>
+  
+
+  
+    <div class="sourcedoc-section section-element" id="5400fc526668b926b396d12c17a3b52a741f6d8c">
+      
+      <h3 class="sourcedoc-section element-name">underlineText</h3>
+      
+      <p class="sourcedoc-section section-signature">
+        <code>fun TextView.underlineText(string: String?)</code>
+      </p>
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Underline text</p><h4>Example</h4><pre class="language-xml"><code class="language-xml">
+&lt;layout&gt;
+...
+
+ &lt;!-- Result <u>My Name</u> --&gt;
+ &lt;TextView
+ ...
+ underline=&quot;@{ `My Name` }&quot;
+ /&gt;
+
+...
+</code></pre>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="7534fc63d58b5603b95c887ee7ea4fa5bff03a7e">
+
+
+  <p class="sourcedoc-section section-name"><strong>Receiver</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d4d2986d7d550c0bd4554098d99d7b5610525a1a">
+        <td class="sourcedoc-section section-signature">
+          <code>TextView</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="836f79cb2ca7eaec94242ddca599d470de0160cb">
+
+
+  <p class="sourcedoc-section section-name"><strong>Parameters</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="1a4ecbe48583292c6c312d1a1f1bfa32e0ebbd5d">
+        <td class="sourcedoc-section section-signature">
+          <code>string: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The text to be underlined</p>
+
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="dccb1ef2037b219a52091137d33151352889243c">
+
+
+  <p class="sourcedoc-section section-name"><strong>ReturnValue</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="f6b935ab337145efdeadda28cae18aa89a845e36">
+        <td class="sourcedoc-section section-signature">
+          <code>Unit</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+      
+    </div>
+  
+    <div class="sourcedoc-section section-element" id="805d0d0dec40ab03cb26352b33b816497df5af7c">
+      
+      <h3 class="sourcedoc-section element-name">acres</h3>
+      
+      <p class="sourcedoc-section section-signature">
+        <code>fun TextView.acres(acreage: Number?)</code>
+      </p>
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Display acreage</p><h4>Example</h4><pre class="language-xml"><code class="language-xml">
+&lt;layout&gt;
+...
+
+ &lt;!-- Result 3.143 Acres --&gt;
+ &lt;TextView
+ ...
+ acres=&quot;@{ 3.143 }&quot;
+ /&gt;
+
+...
+</code></pre>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="1be2d753c10d546453a37bc2739e11003336236a">
+
+
+  <p class="sourcedoc-section section-name"><strong>Receiver</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d4d2986d7d550c0bd4554098d99d7b5610525a1a">
+        <td class="sourcedoc-section section-signature">
+          <code>TextView</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="345b2b6d56ce62f19d7fd9f3ecf182e779b5ab3c">
+
+
+  <p class="sourcedoc-section section-name"><strong>Parameters</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="0bd56d5eaac169bc44bb52174b4b9382ba48af83">
+        <td class="sourcedoc-section section-signature">
+          <code>acreage: Number?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The acreage to be displayed</p>
+
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="6ef622273302f72c0df6f2904dad785c4ec606da">
+
+
+  <p class="sourcedoc-section section-name"><strong>ReturnValue</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="f6b935ab337145efdeadda28cae18aa89a845e36">
+        <td class="sourcedoc-section section-signature">
+          <code>Unit</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+      
+    </div>
+  
+    <div class="sourcedoc-section section-element" id="f5d36a54430a59870f826d45827a67d29df60274">
+      
+      <h3 class="sourcedoc-section element-name">setNumber</h3>
+      
+      <p class="sourcedoc-section section-signature">
+        <code>fun TextView.setNumber(number: Number?, dps: Int?, orEmpty: Boolean?)</code>
+      </p>
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Display number by decimal places defined</p><h4>Example</h4><pre class="language-xml"><code class="language-xml">
+&lt;layout&gt;
+...
+
+ &lt;!-- Result 3.14 --&gt;
+ &lt;TextView
+ ...
+ number=&quot;@{ 3.143 }&quot;
+ dps=&quot;@{ 2 }&quot;
+ /&gt;
+
+...
+</code></pre>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="dab1995b1b613d301b6f4ffe30abbcccce0e74a8">
+
+
+  <p class="sourcedoc-section section-name"><strong>Receiver</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d4d2986d7d550c0bd4554098d99d7b5610525a1a">
+        <td class="sourcedoc-section section-signature">
+          <code>TextView</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="7f46a545f0bfa8fa9ad77eb2a09e0efd52a92df8">
+
+
+  <p class="sourcedoc-section section-name"><strong>Parameters</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="fca96698933f01429165ec9ac51de9b325b2b0af">
+        <td class="sourcedoc-section section-signature">
+          <code>number: Number?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The number to be displayed</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="d9a16ffd51c6dc781224bfd171cb43b885396d63">
+        <td class="sourcedoc-section section-signature">
+          <code>dps: Int?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The maximum number of decimal places</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="6e7665994992b765a7e26197eb15fe066d1f0b5a">
+        <td class="sourcedoc-section section-signature">
+          <code>orEmpty: Boolean?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>If the text view should be empty or display zero</p>
+
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="2542fc48a19363bcb6874d361f72433e39e6c05e">
+
+
+  <p class="sourcedoc-section section-name"><strong>ReturnValue</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="f6b935ab337145efdeadda28cae18aa89a845e36">
+        <td class="sourcedoc-section section-signature">
+          <code>Unit</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+      
+    </div>
+  
+    <div class="sourcedoc-section section-element" id="30a1be218a095c970d33bae20ad590072b8776a1">
+      
+      <h3 class="sourcedoc-section element-name">currency</h3>
+      
+      <p class="sourcedoc-section section-signature">
+        <code>fun TextView.currency(amount: Number?, country: String?)</code>
+      </p>
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Currency formatting by country</p><h4>Example</h4><pre class="language-xml"><code class="language-xml">
+&lt;layout&gt;
+...
+
+ &lt;!-- Result UGX 10,000 --&gt;
+ &lt;TextView
+ ...
+ currency=&quot;@{ 10000 }&quot;
+ country=&quot;@{ `Uganda` }&quot;
+ /&gt;
+
+...
+</code></pre>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="03c84bd1a1aa153423a9fd3f0c269d5e8a6c2168">
+
+
+  <p class="sourcedoc-section section-name"><strong>Receiver</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d4d2986d7d550c0bd4554098d99d7b5610525a1a">
+        <td class="sourcedoc-section section-signature">
+          <code>TextView</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="f5d64b88675eb2b9fbfc306f29974e240828e852">
+
+
+  <p class="sourcedoc-section section-name"><strong>Parameters</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="144e4be855530eff8bfc4a26cac6cf2dce217b0e">
+        <td class="sourcedoc-section section-signature">
+          <code>amount: Number?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The amount to be displayed</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="d385ebfc4ea79c3574c4dcdb7eb1b2ddfdf5bbe5">
+        <td class="sourcedoc-section section-signature">
+          <code>country: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The country to which the currency belongs</p>
+
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="0de5dd60b05cc3b4ea30f22cb807c45c9fe7d2a5">
+
+
+  <p class="sourcedoc-section section-name"><strong>ReturnValue</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="f6b935ab337145efdeadda28cae18aa89a845e36">
+        <td class="sourcedoc-section section-signature">
+          <code>Unit</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+      
+    </div>
+  
+    <div class="sourcedoc-section section-element" id="a265981c95d20afa3b2f24fbfa361b1038a84dab">
+      
+      <h3 class="sourcedoc-section element-name">currencyCode</h3>
+      
+      <p class="sourcedoc-section section-signature">
+        <code>fun TextView.currencyCode(country: String?)</code>
+      </p>
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Display currency code for country e.g UGX</p><h4>Example</h4><pre class="language-xml"><code class="language-xml">
+&lt;layout&gt;
+...
+
+ &lt;!-- Result UGX --&gt;
+ &lt;TextView
+ ...
+ currencyCode=&quot;@{ `Uganda` }&quot;
+ /&gt;
+
+...
+</code></pre>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="4484bb7813586bf5ca75bd67658e63859f00a1fa">
+
+
+  <p class="sourcedoc-section section-name"><strong>Receiver</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d4d2986d7d550c0bd4554098d99d7b5610525a1a">
+        <td class="sourcedoc-section section-signature">
+          <code>TextView</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="845cdd8002f29eeb38ae45acabbaa2e4b232b6d4">
+
+
+  <p class="sourcedoc-section section-name"><strong>Parameters</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d385ebfc4ea79c3574c4dcdb7eb1b2ddfdf5bbe5">
+        <td class="sourcedoc-section section-signature">
+          <code>country: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The country whose currency is to be displayed</p>
+
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="decda6b5827603bee26b4794b8ec86a079dee58c">
+
+
+  <p class="sourcedoc-section section-name"><strong>ReturnValue</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="f6b935ab337145efdeadda28cae18aa89a845e36">
+        <td class="sourcedoc-section section-signature">
+          <code>Unit</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+      
+    </div>
+  
+    <div class="sourcedoc-section section-element" id="29bc88a4508b072a22bcf349a2ca08b4c8729a38">
+      
+      <h3 class="sourcedoc-section element-name">setDate</h3>
+      
+      <p class="sourcedoc-section section-signature">
+        <code>fun TextView.setDate(date: LocalDate?, format: String?, default: String?, prepend: String?, append: String?)</code>
+      </p>
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Util for LocalDate date formatting</p><h4>Example</h4><pre class="language-xml"><code class="language-xml">
+&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
+xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;
+xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;
+
+ &lt;data&gt;
+     &lt;variable
+     name=&quot;date&quot;
+     type=&quot;java.time.LocalDate&quot; /&gt;
+ &lt;/data&gt;
+
+...
+
+ &lt;!-- Result Mar 29, 2021 --&gt;
+ &lt;TextView
+ ...
+ format=&quot;@{ `MMM dd, yyyy` }&quot;
+ date=&quot;@{ date }&quot;
+ /&gt;
+
+...
+</code></pre>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="62bd462073029b2ea259446cb95c4d78fd93d89f">
+
+
+  <p class="sourcedoc-section section-name"><strong>Receiver</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d4d2986d7d550c0bd4554098d99d7b5610525a1a">
+        <td class="sourcedoc-section section-signature">
+          <code>TextView</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="c310ba9e2993cb284a053b5a3158e402a910dd5a">
+
+
+  <p class="sourcedoc-section section-name"><strong>Parameters</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="0626e7225506ce53f9af5b43e6b1b141675929de">
+        <td class="sourcedoc-section section-signature">
+          <code>date: LocalDate?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The date to be formatted</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="c95c9991104db0fc0ec91af9efe2403eb682077f">
+        <td class="sourcedoc-section section-signature">
+          <code>format: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The date format e.g YYYY</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="7a54892e7e6917e82bd730c2b3968e2214c71453">
+        <td class="sourcedoc-section section-signature">
+          <code>default: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The default value in case the date is <code>null</code></p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="4a5a9c413e6bfc64735e0ffbcdb666a08239cea3">
+        <td class="sourcedoc-section section-signature">
+          <code>prepend: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>In case you need to prepend text to the date</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="0a13461db70de8f0a91fbefbf59165a7fc3d54e9">
+        <td class="sourcedoc-section section-signature">
+          <code>append: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>In case you need to append text to the date</p>
+
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="a7b9d116ebe866eb5740d679de20ee1d61ed8556">
+
+
+  <p class="sourcedoc-section section-name"><strong>ReturnValue</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="f6b935ab337145efdeadda28cae18aa89a845e36">
+        <td class="sourcedoc-section section-signature">
+          <code>Unit</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+      
+    </div>
+  
+    <div class="sourcedoc-section section-element" id="be81ac0b3636a3181548cbd6eb4cbb8925eb06fa">
+      
+      <h3 class="sourcedoc-section element-name">setDate</h3>
+      
+      <p class="sourcedoc-section section-signature">
+        <code>fun TextView.setDate(date: ZonedDateTime?, format: String?, default: String?, prepend: String?, append: String?)</code>
+      </p>
+
+      
+
+      <div class="sourcedoc-section section-comments"><p>Util for ZonedDateTime date formatting</p><h4>Example</h4><pre><code>
+&lt;layout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;
+xmlns:app=&quot;http://schemas.android.com/apk/res-auto&quot;
+xmlns:tools=&quot;http://schemas.android.com/tools&quot;&gt;
+
+ &lt;data&gt;
+     &lt;variable
+     name=&quot;date&quot;
+     type=&quot;java.time.ZonedDateTime&quot; /&gt;
+ &lt;/data&gt;
+
+...
+
+ &lt;!-- Result Mar 29, 2021 --&gt;
+ &lt;TextView
+ ...
+ format=&quot;@{ `MMM dd, yyyy` }&quot;
+ date=&quot;@{ date }&quot;
+ /&gt;
+
+...
+</code></pre>
+</div>
+
+      
+      
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="82b0f6e34cc7410092e588376efe8d216acbf1fb">
+
+
+  <p class="sourcedoc-section section-name"><strong>Receiver</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="d4d2986d7d550c0bd4554098d99d7b5610525a1a">
+        <td class="sourcedoc-section section-signature">
+          <code>TextView</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="e21025b0908a8bbc4b07c89c129a78deb17e9c7a">
+
+
+  <p class="sourcedoc-section section-name"><strong>Parameters</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="e5891eac5a85f18656f78134799cfed3e475f914">
+        <td class="sourcedoc-section section-signature">
+          <code>date: ZonedDateTime?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The date to be formatted</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="c95c9991104db0fc0ec91af9efe2403eb682077f">
+        <td class="sourcedoc-section section-signature">
+          <code>format: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The date format e.g YYYY</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="7a54892e7e6917e82bd730c2b3968e2214c71453">
+        <td class="sourcedoc-section section-signature">
+          <code>default: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>The default value in case the date is <code>null</code></p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="4a5a9c413e6bfc64735e0ffbcdb666a08239cea3">
+        <td class="sourcedoc-section section-signature">
+          <code>prepend: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>In case you need to prepend text to the date</p>
+
+        </td>
+      </tr>
+      
+      <tr class="sourcedoc-section section-element" id="0a13461db70de8f0a91fbefbf59165a7fc3d54e9">
+        <td class="sourcedoc-section section-signature">
+          <code>append: String?</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        <p>In case you need to append text to the date</p>
+
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+          
+<div class="sourcedoc-section section-root section-level-3" id="51e9427adfe8c7f5a2b0ae382e01fb82b8065e79">
+
+
+  <p class="sourcedoc-section section-name"><strong>ReturnValue</strong></p>
+
+  <div class="table-container">
+    <table class="table is-fullwidth is-bordered">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      
+      <tr class="sourcedoc-section section-element" id="f6b935ab337145efdeadda28cae18aa89a845e36">
+        <td class="sourcedoc-section section-signature">
+          <code>Unit</code>
+        </td>
+        <td class="sourcedoc-section section-comments content">
+        
+        </td>
+      </tr>
+      
+      </tbody>
+    </table>
+  </div>
+
+
+</div>
+
+        
+      
+    </div>
+  
+
+</div>
+
+        
+      
+    </div>
+  
+
+</div>
+
+</div>
+
+
+
+
+
+
+                    
+                
+            
+        
+    
+    <!-- end:inject components -->
+
+
+                    </article>
+                </section>
+            
+        </div>
+        <hr>
+
+        <!-- Page Footer -->
+        <div class="inner">
+    <footer id="footer">
+        <div class="clearfix">
+            
+            
+        </div>
+    </footer>
+</div>
+
+    </div>
+
+    <!-- Sidebar -->
+    <div id="sidebar">
+    <div class="inner">
+
+        <!-- Search -->
+        <section id="search" class="alt">
+            <form data-orchid-search="">
+                <input type="text" name="query" id="query" placeholder="Search"/>
+            </form>
+            <div class="box" id="search-results" data-orchid-search-results style="display: none;">
+                <b>Search Results</b>
+                <ul></ul>
+            </div>
+            <div class="box" id="search-progress" data-orchid-search-progress style="display: none;">
+                <div class="loader">Loading...</div>
+            </div>
+        </section>
+
+        <!-- Menu -->
+        <nav id="siteNav" class="menu">
+            <header class="major">
+                <h2>EzyAgric Farmer</h2>
+            </header>
+            <ul class="top-level">
+                
+                    
+    
+    <li>
+        <a class="subheader">Wiki</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/installation">Installation</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/configuration">Basic Configuration</a>
+    </li>
+    
+
+                
+                    
+    <li>
+        <span class="opener">Features</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/agri-shop">Agri Shop</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/produce-market">Produce Market</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/garden-mapping">Garden Mapping</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/records">Records</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/farm-plan">Farm Plan</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/credits">Credits</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/extension">Better Extension</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/features/fertigation">Fertigation</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/wiki/extending">Extending</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a class="subheader">App Docs</a>
+    </li>
+    
+
+                
+                    
+    <li>
+        <span class="opener">Agri Shop</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/_interfaces">com.ezyagric.extension.android.ui.shop._interfaces</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters">com.ezyagric.extension.android.ui.shop.adapters</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/cart">com.ezyagric.extension.android.ui.shop.cart</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/fragments">com.ezyagric.extension.android.ui.shop.fragments</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/models">com.ezyagric.extension.android.ui.shop.models</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/utils">com.ezyagric.extension.android.ui.shop.utils</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/viewmodels">com.ezyagric.extension.android.ui.shop.viewmodels</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    <li>
+        <span class="opener">Farm Manager</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan">ezyagric.ui.farmmanager.db.farmplan</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar">ezyagric.ui.farmmanager.db.farmplan.calendar</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema">ezyagric.ui.farmmanager.db.farmplan.schema</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/gardens">ezyagric.ui.farmmanager.db.gardens</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records">ezyagric.ui.farmmanager.db.records</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/prefs">ezyagric.ui.farmmanager.prefs</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui">ezyagric.ui.farmmanager.ui</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan">ezyagric.ui.farmmanager.ui.farmplan</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample">ezyagric.ui.farmmanager.ui.farmplan._sample</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/activities">ezyagric.ui.farmmanager.ui.farmplan._sample.activities</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/plans">ezyagric.ui.farmmanager.ui.farmplan._sample.plans</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create">ezyagric.ui.farmmanager.ui.farmplan.create</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details">ezyagric.ui.farmmanager.ui.farmplan.details</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities">ezyagric.ui.farmmanager.ui.farmplan.details.activities</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans">ezyagric.ui.farmmanager.ui.farmplan.details.plans</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment">ezyagric.ui.farmmanager.ui.farmplan.details.plans.estimated_investment</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue">ezyagric.ui.farmmanager.ui.farmplan.details.plans.estimated_revenue</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home">ezyagric.ui.farmmanager.ui.farmplan.home</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list">ezyagric.ui.farmmanager.ui.farmplan.list</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping">ezyagric.ui.farmmanager.ui.gardenmapping</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/gardens">ezyagric.ui.farmmanager.ui.gardenmapping.gardens</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/mapping">ezyagric.ui.farmmanager.ui.gardenmapping.mapping</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils">ezyagric.ui.farmmanager.ui.gardenmapping.utils</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/viewmap">ezyagric.ui.farmmanager.ui.gardenmapping.viewmap</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/menu">ezyagric.ui.farmmanager.ui.menu</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records">ezyagric.ui.farmmanager.ui.records</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis">ezyagric.ui.farmmanager.ui.records.analysis</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense">ezyagric.ui.farmmanager.ui.records.expense</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income">ezyagric.ui.farmmanager.ui.records.income</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list">ezyagric.ui.farmmanager.ui.records.list</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/record">ezyagric.ui.farmmanager.ui.records.record</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector">ezyagric.ui.farmmanager.ui.records.selector</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers">ezyagric.ui.farmmanager.workers</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    <li>
+        <span class="opener">Better Extension</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/app/better-extension/com/ezyagric/extension/android/ui/betterextension/models">com.ezyagric.extension.android.ui.betterextension.models</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    
+    <li>
+        <a class="subheader">Core Docs</a>
+    </li>
+    
+
+                
+                    
+    <li>
+        <span class="opener">Classes</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/back">Back</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/backto">BackTo</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/baseactivity">BaseActivity</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/basebottomsheetfragment">BaseBottomSheetFragment</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/basedialogfragment">BaseDialogFragment</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/basefragment">BaseFragment</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/basepermissionmanager">BasePermissionManager</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/baseviewholder">BaseViewHolder</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/baseviewmodel">BaseViewModel</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus">DisplayStatus</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/edittextbindings">EditTextBindings</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/hideloading">HideLoading</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemnumberlistener">ItemNumberListener</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/itempagechangelistener">ItemPageChangeListener</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itempositionselectedlistener">ItemPositionSelectedListener</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemselectedlistener">ItemSelectedListener</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemswitchlistener">ItemSwitchListener</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemtextchangelistener">ItemTextChangeListener</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand">NavigationCommand</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/period">Period</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiondenied">PermissionDenied</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiondeniedpermanently">PermissionDeniedPermanently</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiongranted">PermissionGranted</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionmanager">PermissionManager</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult">PermissionResult</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/arch/resource">Resource</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showerror">ShowError</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showerrorres">ShowErrorRes</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showloading">ShowLoading</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showloadingres">ShowLoadingRes</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/showrational">ShowRational</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showsuccess">ShowSuccess</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showsuccessres">ShowSuccessRes</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/livedata/singleliveevent">SingleLiveEvent</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/spinnerbindings">SpinnerBindings</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/arch/resource/status">Status</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/decorators/stickyheaderitemdecoration/stickyheaderinterface">StickyHeaderInterface</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/decorators/stickyheaderitemdecoration">StickyHeaderItemDecoration</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/switchbindings">SwitchBindings</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/textviewbindings">TextViewBindings</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/to">To</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/toroot">ToRoot</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/viewpagerbindings">ViewPagerBindings</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    <li>
+        <span class="opener">Packages</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/arch">akorion.core.arch</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base">akorion.core.base</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind">akorion.core.bind</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/decorators">akorion.core.decorators</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx">akorion.core.ktx</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views">akorion.core.ktx.views</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/livedata">akorion.core.livedata</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav">akorion.core.nav</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions">akorion.core.permissions</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status">akorion.core.status</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    
+    <li>
+        <a class="subheader">DB Docs</a>
+    </li>
+    
+
+                
+                    
+    <li>
+        <span class="opener">Classes</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/collections/basecollection">BaseCollection</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/cbldao">CBLDao</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/cbldb">CBLDb</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/dbmodule">DBModule</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/localwinconflictresolver">LocalWinConflictResolver</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/replicatortypehelper">ReplicatorTypeHelper</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/skiperrorlistadapterfactory/skiperrorlistadapter">SkipErrorListAdapter</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/skiperrorlistadapterfactory">SkipErrorListAdapterFactory</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/enums/types">TYPES</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/typesadapter">TypesAdapter</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeadapter">ZonedDateTimeAdapter</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeconverter">ZonedDateTimeConverter</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeparceladapter">ZonedDateTimeParcelAdapter</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeparceler">ZonedDateTimeParceler</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimepattern">ZonedDateTimePattern</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    <li>
+        <span class="opener">Packages</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db">ezyagric.db</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters">ezyagric.db.adapters</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/collections">ezyagric.db.collections</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/enums">ezyagric.db.enums</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    
+    <li>
+        <a class="subheader">UI Docs</a>
+    </li>
+    
+
+                
+                    
+    <li>
+        <span class="opener">Classes</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/customloader">CustomLoader</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/motiontoast">MotionToast</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/plaintextinputlayout">PlainTextInputLayout</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    <li>
+        <span class="opener">Packages</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui">akorion.ui</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/ktx">akorion.ui.ktx</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+            </ul>
+        </nav>
+        
+
+        <!-- Section -->
+        <section>
+            <p class="text-center">
+                Currently 1.0.0. Created with <a href="https://orchid.run">Orchid </a> and <b>Orchid Editorial Theme</b>.
+            </p>
+        </section>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <p class="copyright text-center">&copy; EzyAgric Farmer. All rights reserved.<br>Design by <a href="https://html5up.net">HTML5 UP</a></p>
+        </footer>
+
+    </div>
+</div>
+
+</div>
+
+
+
+
+
+
+    <!-- start:inject meta-components [bodyEnd] -->
+    
+
+        
+            
+        
+
+        
+    
+    <!-- end:inject meta-components [bodyEnd] -->
+
+
+
+    <!-- start:inject meta-components [bodyEnd] -->
+    
+    <!-- end:inject meta-components [bodyEnd] -->
+
+
+
+
+<!-- start:inject scripts -->
+<script  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script  src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
+<script  src=""https://ezyagric.github.io"/Editorial/cb18023e/assets/js/editorial_util.js"></script>
+<script  src=""https://ezyagric.github.io"/Editorial/cb18023e/assets/js/editorial_main.js"></script>
+<script  src=""https://ezyagric.github.io"/Editorial/cb18023e/assets/js/editorial_orchidCustomizations.js"></script>
+<script  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script  src="https://unpkg.com/lunr/lunr.js"></script>
+<script  src=""https://ezyagric.github.io"/assets/js/orchidSearch.js"></script>
+<!-- end:inject scripts -->
+
+
+</body>
+</html>

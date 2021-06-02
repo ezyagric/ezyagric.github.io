@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /
+
+
+
+Sitemap: &quot;https://ezyagric.github.io&quot;/sitemap.xml
+
