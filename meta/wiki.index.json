@@ -11,27 +11,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "extension",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/extension"
+                "link": "https://ezyagric.github.io/wiki/features/extension"
               },
               "next": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "fertigation",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/fertigation"
+                "link": "https://ezyagric.github.io/wiki/features/fertigation"
               },
               "previous": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "credits",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/credits"
+                "link": "https://ezyagric.github.io/wiki/features/credits"
               },
               "description": "",
               "title": "Better Extension",
@@ -43,27 +43,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "garden-mapping",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/garden-mapping"
+                "link": "https://ezyagric.github.io/wiki/features/garden-mapping"
               },
               "next": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "records",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/records"
+                "link": "https://ezyagric.github.io/wiki/features/records"
               },
               "previous": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "produce-market",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/produce-market"
+                "link": "https://ezyagric.github.io/wiki/features/produce-market"
               },
               "description": "",
               "title": "Garden Mapping",
@@ -75,27 +75,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "records",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/records"
+                "link": "https://ezyagric.github.io/wiki/features/records"
               },
               "next": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "farm-plan",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/farm-plan"
+                "link": "https://ezyagric.github.io/wiki/features/farm-plan"
               },
               "previous": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "garden-mapping",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/garden-mapping"
+                "link": "https://ezyagric.github.io/wiki/features/garden-mapping"
               },
               "description": "",
               "title": "Records",
@@ -107,27 +107,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "credits",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/credits"
+                "link": "https://ezyagric.github.io/wiki/features/credits"
               },
               "next": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "extension",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/extension"
+                "link": "https://ezyagric.github.io/wiki/features/extension"
               },
               "previous": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "farm-plan",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/farm-plan"
+                "link": "https://ezyagric.github.io/wiki/features/farm-plan"
               },
               "description": "",
               "title": "Credits",
@@ -139,27 +139,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "produce-market",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/produce-market"
+                "link": "https://ezyagric.github.io/wiki/features/produce-market"
               },
               "next": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "garden-mapping",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/garden-mapping"
+                "link": "https://ezyagric.github.io/wiki/features/garden-mapping"
               },
               "previous": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "agri-shop",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/agri-shop"
+                "link": "https://ezyagric.github.io/wiki/features/agri-shop"
               },
               "description": "",
               "title": "Produce Market",
@@ -171,27 +171,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "farm-plan",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/farm-plan"
+                "link": "https://ezyagric.github.io/wiki/features/farm-plan"
               },
               "next": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "credits",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/credits"
+                "link": "https://ezyagric.github.io/wiki/features/credits"
               },
               "previous": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "records",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/records"
+                "link": "https://ezyagric.github.io/wiki/features/records"
               },
               "description": "",
               "title": "Farm Plan",
@@ -203,27 +203,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "agri-shop",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/agri-shop"
+                "link": "https://ezyagric.github.io/wiki/features/agri-shop"
               },
               "next": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "produce-market",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/produce-market"
+                "link": "https://ezyagric.github.io/wiki/features/produce-market"
               },
               "previous": {
                 "path": "wiki",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "features",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features"
+                "link": "https://ezyagric.github.io/wiki/features"
               },
               "description": "",
               "title": "Agri Shop",
@@ -235,27 +235,27 @@
             "ownPages": [{
               "reference": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "fertigation",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/fertigation"
+                "link": "https://ezyagric.github.io/wiki/features/fertigation"
               },
               "next": {
                 "path": "wiki",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "extending",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/extending"
+                "link": "https://ezyagric.github.io/wiki/extending"
               },
               "previous": {
                 "path": "wiki/features",
-                "baseUrl": "\"https://ezyagric.github.io\"",
+                "baseUrl": "https://ezyagric.github.io",
                 "fileName": "extension",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "\"https://ezyagric.github.io\"/wiki/features/extension"
+                "link": "https://ezyagric.github.io/wiki/features/extension"
               },
               "description": "",
               "title": "Fertigation",
@@ -266,27 +266,27 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "features",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/features"
+            "link": "https://ezyagric.github.io/wiki/features"
           },
           "next": {
             "path": "wiki/features",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "agri-shop",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/features/agri-shop"
+            "link": "https://ezyagric.github.io/wiki/features/agri-shop"
           },
           "previous": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "configuration",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/configuration"
+            "link": "https://ezyagric.github.io/wiki/configuration"
           },
           "description": "",
           "title": "Features",
@@ -298,27 +298,27 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "configuration",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/configuration"
+            "link": "https://ezyagric.github.io/wiki/configuration"
           },
           "next": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "features",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/features"
+            "link": "https://ezyagric.github.io/wiki/features"
           },
           "previous": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "installation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/installation"
+            "link": "https://ezyagric.github.io/wiki/installation"
           },
           "description": "",
           "title": "Basic Configuration",
@@ -330,19 +330,19 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "installation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/installation"
+            "link": "https://ezyagric.github.io/wiki/installation"
           },
           "next": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "configuration",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/configuration"
+            "link": "https://ezyagric.github.io/wiki/configuration"
           },
           "description": "",
           "title": "Installation",
@@ -354,19 +354,19 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "extending",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/extending"
+            "link": "https://ezyagric.github.io/wiki/extending"
           },
           "previous": {
             "path": "wiki/features",
-            "baseUrl": "\"https://ezyagric.github.io\"",
+            "baseUrl": "https://ezyagric.github.io",
             "fileName": "fertigation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "\"https://ezyagric.github.io\"/wiki/features/fertigation"
+            "link": "https://ezyagric.github.io/wiki/features/fertigation"
           },
           "description": "",
           "title": "Extending",
@@ -377,15 +377,15 @@
     "ownPages": [{
       "reference": {
         "path": "",
-        "baseUrl": "\"https://ezyagric.github.io\"",
+        "baseUrl": "https://ezyagric.github.io",
         "fileName": "wiki",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "\"https://ezyagric.github.io\"/wiki"
+        "link": "https://ezyagric.github.io/wiki"
       },
       "description": "",
       "title": "Wiki",
-      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/installation\">Installation<\/a><\/li> \n   <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/configuration\">Basic Configuration<\/a><\/li> \n   <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features\">Features<\/a> \n    <ul> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/agri-shop\">Agri Shop<\/a><\/li> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/produce-market\">Produce Market<\/a><\/li> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/garden-mapping\">Garden Mapping<\/a><\/li> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/records\">Records<\/a><\/li> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/farm-plan\">Farm Plan<\/a><\/li> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/credits\">Credits<\/a><\/li> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/extension\">Better Extension<\/a><\/li> \n     <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/features/fertigation\">Fertigation<\/a><\/li> \n    <\/ul> <\/li> \n   <li><a href=\"&quot;https://ezyagric.github.io&quot;/wiki/extending\">Extending<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://ezyagric.github.io/wiki/installation\">Installation<\/a><\/li> \n   <li><a href=\"https://ezyagric.github.io/wiki/configuration\">Basic Configuration<\/a><\/li> \n   <li><a href=\"https://ezyagric.github.io/wiki/features\">Features<\/a> \n    <ul> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/agri-shop\">Agri Shop<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/produce-market\">Produce Market<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/garden-mapping\">Garden Mapping<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/records\">Records<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/farm-plan\">Farm Plan<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/credits\">Credits<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/extension\">Better Extension<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/fertigation\">Fertigation<\/a><\/li> \n    <\/ul> <\/li> \n   <li><a href=\"https://ezyagric.github.io/wiki/extending\">Extending<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
     }]
   }}
 }

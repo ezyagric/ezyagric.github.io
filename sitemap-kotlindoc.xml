@@ -4,1732 +4,1732 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-common</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-common</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/network/api</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/network/api</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/network/api/creditsapi</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/network/api/creditsapi</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/network/api/ordersapi</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/network/api/ordersapi</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models/inputorder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models/inputorder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models/details</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models/details</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models/order</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/models/order</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/cblorder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/cblorder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/ordermodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/orders/ordermodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/shopmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/shopmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/input</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/input</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/stock_status</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/stock_status</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/cbinputs</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/cbinputs</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/discounts</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/discounts</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/package</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/package</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/stockmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/stockmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/stockadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/db/inputs/stockadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/doc</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/doc</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/resource</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/resource</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/docstate</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/docstate</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-data/com/ezyagric/extension/android/data/resourcestate</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-data/com/ezyagric/extension/android/data/resourcestate</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-di</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-di</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-updates</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-updates</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-usage</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-usage</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/appmodulesession</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/appmodulesession</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/inappsessionworker</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/inappsessionworker</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/ezyagricappusagetracker</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/ezyagricappusagetracker</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/journeytag</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/app-usage/com/ezyagric/extension/android/ui/app_usage/journeytag</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/better-extension</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/better-extension</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/better-extension/com/ezyagric/extension/android/ui/betterextension/models</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/better-extension/com/ezyagric/extension/android/ui/betterextension/models</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/better-extension/com/ezyagric/extension/android/ui/betterextension/models/betterextensionsession</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/better-extension/com/ezyagric/extension/android/ui/betterextension/models/betterextensionsession</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/dashboard</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/dashboard</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/ezy-credits</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/ezy-credits</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/prefs</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/prefs</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/prefs/farmmanagerprefs</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/prefs/farmmanagerprefs</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/prefs/fmprefsmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/prefs/fmprefsmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecords</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecords</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter/emptyviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter/emptyviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter/farmrecordsexpenseviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter/farmrecordsexpenseviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter/farmrecordsexpenseheaderviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordsadapter/farmrecordsexpenseheaderviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordslistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenserecordslistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/addexpensedialog</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/addexpensedialog</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenseitemlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/expenseitemlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/addexpensedialoglistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/addexpensedialoglistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/editexpensedialog</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/expense/editexpensedialog</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordselectormodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordselectormodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordbookselectorlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordbookselectorlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordbookselectoradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordbookselectoradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordbookselector</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/selector/recordbookselector</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/record</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/record</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/record/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/record/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/record/records</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/record/records</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis/recordsanalysis</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis/recordsanalysis</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis/recordsanalysislistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/analysis/recordsanalysislistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemadapter/emptyviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemadapter/emptyviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemadapter/farmrecordsincomeitemviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemadapter/farmrecordsincomeitemviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomerecordslistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomerecordslistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/addincomedialoglistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/addincomedialoglistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/editincomedialog</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/editincomedialog</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomeitemlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomerecords</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/incomerecords</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/addincomedialog</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/income/addincomedialog</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/farmrecords</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/farmrecords</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsadapter/emptyviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsadapter/emptyviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsadapter/seasonsviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsadapter/seasonsviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsitemlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/list/recordsitemlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/recordsviewmodel</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/recordsviewmodel</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/recordsviewmodelmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/records/recordsviewmodelmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/onboardscreen</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/onboardscreen</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/farmmanagerhomescreen</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/farmmanagerhomescreen</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/onboardingpageradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/onboardingpageradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/farmplanhomelistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/home/farmplanhomelistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter/emptyviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter/emptyviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter/estimatedinvestmentitemviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter/estimatedinvestmentitemviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter/estimatedinvestmentheaderviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvadapter/estimatedinvestmentheaderviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/farmactivityinput</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/farmactivityinput</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvitemsadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvitemsadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvitemsadapter/estimatedinvestmentitemviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvitemsadapter/estimatedinvestmentitemviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/addfarmplanitemlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/addfarmplanitemlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estnoninputitemedit</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estnoninputitemedit</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaselistlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaselistlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvbinding</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvbinding</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estimatedinvlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estimatedinvlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estimatedinvestment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estimatedinvestment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/addfarmplanitem</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/addfarmplanitem</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaseitemlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaseitemlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/farmplaninput</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/farmplaninput</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/inputselectorlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/inputselectorlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaseadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaseadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvitemlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvitemlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/inputselectoradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/inputselectoradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvinputitemedit</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvinputitemedit</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaselist</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/purchaselist</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvlandlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_investment/estinvlandlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue/changeyield</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue/changeyield</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue/farmplanbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue/farmplanbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue/changeyieldlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/estimated_revenue/changeyieldlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changecropvariety</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changecropvariety</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/farmplanbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/farmplanbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changefarmingtype</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changefarmingtype</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/farmplansummarylistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/farmplansummarylistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changegardensize</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changegardensize</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changegardenlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changegardenlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/farmplansummary</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/farmplansummary</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changecropvarietylistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/plans/changecropvarietylistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaractivity</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaractivity</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendardetails</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendardetails</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/recomminputsadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/recomminputsadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/recomminputsadapter/calendarinputviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/recomminputsadapter/calendarinputviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendardetailslistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendardetailslistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/plantingcalendar</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/plantingcalendar</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/actionperiod</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/actionperiod</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendarlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendarlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaradapter/calendarviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaradapter/calendarviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaradapter/emptyviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendaradapter/emptyviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendarbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/calendarbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/recomminputlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/recomminputlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/colorpair</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/activities/colorpair</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/farmplandetails</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/farmplandetails</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/farmplandetails/farmplanpageradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/details/farmplandetails/farmplanpageradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/plans</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/plans</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/plans/farmplansamplesummary</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/plans/farmplansamplesummary</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/activities</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/activities</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/activities/plantingcalendarsample</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/activities/plantingcalendarsample</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/farmplansampledetails</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/farmplansampledetails</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/farmplansampledetails/farmplanpageradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/_sample/farmplansampledetails/farmplanpageradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list/farmplansadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list/farmplansadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list/farmplanslist</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/list/farmplanslist</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/creationselector</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/creationselector</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/farmplancreatorlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/farmplancreatorlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/bindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/bindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/binding</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/binding</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/createfarmplanconst</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/createfarmplanconst</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/schemaselector</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/schemaselector</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/createfarmplanlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/createfarmplanlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/createfarmplan</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/createfarmplan</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/schemaselectoradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/schemaselectoradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/farmplanschemalistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/create/farmplanschemalistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/packageinput</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/packageinput</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/farminput</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/farminput</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/package</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmplan/package</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/mapping</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/mapping</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/mapping/mappingfragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/mapping/mappingfragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/viewmap</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/viewmap</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/viewmap/viewmapfragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/viewmap/viewmapfragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils/gardenselectedlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils/gardenselectedlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils/gardenbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils/gardenbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils/gardensspinneradapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/utils/gardensspinneradapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/gardens</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/gardens</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/gardens/gardensfragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/gardens/gardensfragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/gardensviewmodel</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/gardenmapping/gardensviewmodel</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/menu</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/menu</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/menu/farmmanagermenu</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/menu/farmmanagermenu</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/fmviewmodelmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/fmviewmodelmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmmanagerviewmodel</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/ui/farmmanagerviewmodel</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/customincome</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/customincome</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/cblcustomincome</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/cblcustomincome</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/recordbook</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/recordbook</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/customexpense</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/customexpense</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/recordsmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/recordsmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/cbrecordbook</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/cbrecordbook</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/cblcustomexpense</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/records/cblcustomexpense</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/cblfpcalendar</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/cblfpcalendar</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/planting</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/planting</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/calendarmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/calendarmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/farmplancalendar</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/farmplancalendar</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/actions</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/calendar/actions</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/farmplanschemaactivity</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/farmplanschemaactivity</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/farmplanschema</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/farmplanschema</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/farmplanschemamodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/farmplanschemamodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/stages</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/stages</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/cblfpschema</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/schema/cblfpschema</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/fpinput</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/fpinput</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/cblfarmplan</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/cblfarmplan</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmplanactivity</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmplanactivity</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmactivity</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmactivity</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmplan</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmplan</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmplandatamodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/farmplan/farmplandatamodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/gardens</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/gardens</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/gardens/cbgarden</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/gardens/cbgarden</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/gardens/fbgarden</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/db/gardens/fbgarden</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers/recordsimportworker</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers/recordsimportworker</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers/farmplandataclean</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers/farmplandataclean</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers/farmplancalendarworker</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fm/com/ezyagric/extension/android/ui/farmmanager/workers/farmplancalendarworker</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/fertigation</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/fertigation</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/market</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/market</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/viewmodels</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/viewmodels</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/viewmodels/shopviewmodel</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/viewmodels/shopviewmodel</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/fragments</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/fragments</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/fragments/myorderdetailsfragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/fragments/myorderdetailsfragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/fragments/customerdeliveryaffirmationbottomsheet</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/fragments/customerdeliveryaffirmationbottomsheet</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/utils</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/utils</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/utils/cartbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/utils/cartbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/models</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/models</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/models/flashsale</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/models/flashsale</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/myordersadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/myordersadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/myordersadapter/completedorder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/myordersadapter/completedorder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/myordersadapter/neworders</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/myordersadapter/neworders</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/flashsaleinputsadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/flashsaleinputsadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/flashsaleinputsadapter/itemrowholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/flashsaleinputsadapter/itemrowholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/flashsaleinputsadapter/flashinputslistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/adapters/flashsaleinputsadapter/flashinputslistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/cart</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/cart</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/_interfaces</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/_interfaces</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/_interfaces/myorderaffirmations</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/_interfaces/myorderaffirmations</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/_interfaces/myordersinteraction</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/shop/com/ezyagric/extension/android/ui/shop/_interfaces/myordersinteraction</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/auth</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/auth</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/walk-through</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/walk-through</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/services</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/services</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/paymentsmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/paymentsmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/paymentsviewmodel</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/paymentsviewmodel</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/paymentlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/paymentlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/makepayment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/makepayment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/makepaymentmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/widgets/payments/makepaymentmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/kcommonutils</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/kcommonutils</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/paymentbottomsheetfragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/paymentbottomsheetfragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/paymentbottomsheetfragment/paymentcallback</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/paymentbottomsheetfragment/paymentcallback</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/inappsessionmanagementworker</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/inappsessionmanagementworker</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/app/utils/com/ezyagric/extension/android/utils/timeago</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/app/utils/com/ezyagric/extension/android/utils/timeago</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/enums</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/enums</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/enums/types</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/enums/types</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/typesadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/typesadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/skiperrorlistadapterfactory</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/skiperrorlistadapterfactory</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/skiperrorlistadapterfactory/skiperrorlistadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/skiperrorlistadapterfactory/skiperrorlistadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeadapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeadapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeparceladapter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeparceladapter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeconverter</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeconverter</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimepattern</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimepattern</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeparceler</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/adapters/zoneddatetimeparceler</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/collections</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/collections</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/collections/basecollection</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/collections/basecollection</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/cbldao</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/cbldao</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/dbmodule</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/dbmodule</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/localwinconflictresolver</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/localwinconflictresolver</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/replicatortypehelper</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/replicatortypehelper</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/db/ezyagric/db/cbldb</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/db/ezyagric/db/cbldb</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/ui</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/ui/akorion/ui</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/ktx</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/ui/akorion/ui/ktx</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/customloader</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/ui/akorion/ui/customloader</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/plaintextinputlayout</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/ui/akorion/ui/plaintextinputlayout</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/ui/akorion/ui/motiontoast</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/ui/akorion/ui/motiontoast</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/decorators</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/decorators</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/decorators/stickyheaderitemdecoration</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/decorators/stickyheaderitemdecoration</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/decorators/stickyheaderitemdecoration/stickyheaderinterface</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/decorators/stickyheaderitemdecoration/stickyheaderinterface</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/views</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemnumberlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/views/itemnumberlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemtextchangelistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/views/itemtextchangelistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemswitchlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/views/itemswitchlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itempositionselectedlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/views/itempositionselectedlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/views/itemselectedlistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/views/itemselectedlistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/period</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/period</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/ktx/itempagechangelistener</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/ktx/itempagechangelistener</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showloadingres</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus/showloadingres</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showerror</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus/showerror</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/hideloading</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus/hideloading</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showerrorres</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus/showerrorres</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showsuccess</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus/showsuccess</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showloading</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus/showloading</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/status/displaystatus/showsuccessres</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/status/displaystatus/showsuccessres</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions/permissionresult</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiondeniedpermanently</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiondeniedpermanently</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/showrational</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions/permissionresult/showrational</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiongranted</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiongranted</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiondenied</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions/permissionresult/permissiondenied</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/basepermissionmanager</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions/basepermissionmanager</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/permissions/permissionmanager</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/permissions/permissionmanager</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/livedata</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/livedata</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/livedata/singleliveevent</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/livedata/singleliveevent</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/arch</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/arch</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/arch/resource</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/arch/resource</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/arch/resource/status</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/arch/resource/status</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/nav</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/nav/navigationcommand</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/backto</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/nav/navigationcommand/backto</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/toroot</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/nav/navigationcommand/toroot</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/to</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/nav/navigationcommand/to</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/nav/navigationcommand/back</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/nav/navigationcommand/back</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/bind</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/edittextbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/bind/edittextbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/switchbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/bind/switchbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/spinnerbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/bind/spinnerbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/textviewbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/bind/textviewbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/bind/viewpagerbindings</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/bind/viewpagerbindings</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/base</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/basedialogfragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/base/basedialogfragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/baseactivity</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/base/baseactivity</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/basebottomsheetfragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/base/basebottomsheetfragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/baseviewholder</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/base/baseviewholder</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/basefragment</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/base/basefragment</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/kotlindoc/modules/core/akorion/core/base/baseviewmodel</loc>
+        <loc>https://ezyagric.github.io/kotlindoc/modules/core/akorion/core/base/baseviewmodel</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>

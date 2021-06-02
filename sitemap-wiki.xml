@@ -4,67 +4,67 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki</loc>
+        <loc>https://ezyagric.github.io/wiki</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/installation</loc>
+        <loc>https://ezyagric.github.io/wiki/installation</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/configuration</loc>
+        <loc>https://ezyagric.github.io/wiki/configuration</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features</loc>
+        <loc>https://ezyagric.github.io/wiki/features</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/agri-shop</loc>
+        <loc>https://ezyagric.github.io/wiki/features/agri-shop</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/produce-market</loc>
+        <loc>https://ezyagric.github.io/wiki/features/produce-market</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/garden-mapping</loc>
+        <loc>https://ezyagric.github.io/wiki/features/garden-mapping</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/records</loc>
+        <loc>https://ezyagric.github.io/wiki/features/records</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/farm-plan</loc>
+        <loc>https://ezyagric.github.io/wiki/features/farm-plan</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/credits</loc>
+        <loc>https://ezyagric.github.io/wiki/features/credits</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/extension</loc>
+        <loc>https://ezyagric.github.io/wiki/features/extension</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/features/fertigation</loc>
+        <loc>https://ezyagric.github.io/wiki/features/fertigation</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/wiki/extending</loc>
+        <loc>https://ezyagric.github.io/wiki/extending</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>

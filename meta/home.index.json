@@ -4,11 +4,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "\"https://ezyagric.github.io\"",
+        "baseUrl": "https://ezyagric.github.io",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "\"https://ezyagric.github.io\""
+        "link": "https://ezyagric.github.io"
       },
       "description": "",
       "title": "Home",
@@ -17,11 +17,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "\"https://ezyagric.github.io\"",
+        "baseUrl": "https://ezyagric.github.io",
         "fileName": "404",
         "extension": "html",
         "usePrettyUrl": false,
-        "link": "\"https://ezyagric.github.io\"/404.html"
+        "link": "https://ezyagric.github.io/404.html"
       },
       "description": "",
       "title": "Not Found",

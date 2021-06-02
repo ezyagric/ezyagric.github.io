@@ -4,5 +4,5 @@ Disallow: /
 
 
 
-Sitemap: &quot;https://ezyagric.github.io&quot;/sitemap.xml
+Sitemap: https://ezyagric.github.io/sitemap.xml
 

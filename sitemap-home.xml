@@ -4,12 +4,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;</loc>
+        <loc>https://ezyagric.github.io</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>&quot;https://ezyagric.github.io&quot;/404.html</loc>
+        <loc>https://ezyagric.github.io/404.html</loc>
         <lastmod>2021-06-02</lastmod>
         <priority>0.5</priority>
     </url>

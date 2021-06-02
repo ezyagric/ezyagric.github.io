@@ -4,43 +4,43 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-assets.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-assets.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-external.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-external.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-changelog.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-changelog.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-forms.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-forms.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-home.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-home.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-kotlindoc.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-kotlindoc.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-pages.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-pages.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-wiki.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-wiki.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-sitemap.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-sitemap.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
     <sitemap>
-        <loc>&quot;https://ezyagric.github.io&quot;/sitemap-indices.xml</loc>
+        <loc>https://ezyagric.github.io/sitemap-indices.xml</loc>
         <lastmod>2021-06-02</lastmod>
     </sitemap>
 </sitemapindex>
