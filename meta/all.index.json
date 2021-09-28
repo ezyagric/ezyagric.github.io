@@ -1,0 +1,717 @@
+{
+  "ownKey": "index",
+  "childrenPages": {
+    "kotlindoc": {
+      "ownKey": "kotlindoc",
+      "childrenPages": {"app": {
+        "ownKey": "app",
+        "childrenPages": {
+          "shop": {
+            "ownKey": "shop",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "shop",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/shop"
+              },
+              "description": "",
+              "title": "Shop",
+              "content": ""
+            }]
+          },
+          "app-data": {
+            "ownKey": "app-data",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "app-data",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/app-data"
+              },
+              "description": "",
+              "title": "App Data",
+              "content": ""
+            }]
+          },
+          "auth": {
+            "ownKey": "auth",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "auth",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/auth"
+              },
+              "description": "",
+              "title": "Auth",
+              "content": ""
+            }]
+          },
+          "ezy-credits": {
+            "ownKey": "ezy-credits",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "ezy-credits",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/ezy-credits"
+              },
+              "description": "",
+              "title": "credits",
+              "content": ""
+            }]
+          },
+          "fm": {
+            "ownKey": "fm",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "fm",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/fm"
+              },
+              "description": "",
+              "title": "FM",
+              "content": ""
+            }]
+          },
+          "app-common": {
+            "ownKey": "app-common",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "app-common",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/app-common"
+              },
+              "description": "",
+              "title": "App Common",
+              "content": "<h1 id=\"ezyagric-farmer-app-2020\"><a href=\"#ezyagric-farmer-app-2020\" id=\"ezyagric-farmer-app-2020\" class=\"anchor\"><\/a>ezyagric_farmer_app_2020<\/h1>\n<p>This will hold all the code relating to the farmer app that will be deployed on google playstore<\/p>\n"
+            }]
+          },
+          "app-usage": {
+            "ownKey": "app-usage",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "app-usage",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/app-usage"
+              },
+              "description": "",
+              "title": "App Usage",
+              "content": ""
+            }]
+          },
+          "app-updates": {
+            "ownKey": "app-updates",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "app-updates",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/app-updates"
+              },
+              "description": "",
+              "title": "App Updates",
+              "content": ""
+            }]
+          },
+          "services": {
+            "ownKey": "services",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "services",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/services"
+              },
+              "description": "",
+              "title": "Services",
+              "content": ""
+            }]
+          },
+          "walk-through": {
+            "ownKey": "walk-through",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "walk-through",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/walk-through"
+              },
+              "description": "",
+              "title": "Walk Through",
+              "content": ""
+            }]
+          },
+          "fertigation": {
+            "ownKey": "fertigation",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "fertigation",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/fertigation"
+              },
+              "description": "",
+              "title": "fertigation",
+              "content": ""
+            }]
+          },
+          "market": {
+            "ownKey": "market",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "market",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/market"
+              },
+              "description": "",
+              "title": "market",
+              "content": ""
+            }]
+          },
+          "app-di": {
+            "ownKey": "app-di",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "app-di",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/app-di"
+              },
+              "description": "",
+              "title": "App DI",
+              "content": ""
+            }]
+          },
+          "utils": {
+            "ownKey": "utils",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "utils",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/utils"
+              },
+              "description": "",
+              "title": "Utils",
+              "content": ""
+            }]
+          },
+          "better-extension": {
+            "ownKey": "better-extension",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "better-extension",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/better-extension"
+              },
+              "description": "",
+              "title": "extension",
+              "content": ""
+            }]
+          },
+          "dashboard": {
+            "ownKey": "dashboard",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc/app",
+                "baseUrl": "https://ezyagric.github.io",
+                "fileName": "dashboard",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://ezyagric.github.io/kotlindoc/app/dashboard"
+              },
+              "description": "",
+              "title": "Dashboard",
+              "content": ""
+            }]
+          }
+        }
+      }}
+    },
+    "wiki": {
+      "ownKey": "wiki",
+      "childrenPages": {
+        "features": {
+          "ownKey": "features",
+          "childrenPages": {
+            "extension": {
+              "ownKey": "extension",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "extension",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/extension"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "fertigation",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/fertigation"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "credits",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/credits"
+                },
+                "description": "",
+                "title": "Better Extension",
+                "content": ""
+              }]
+            },
+            "garden-mapping": {
+              "ownKey": "garden-mapping",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "garden-mapping",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/garden-mapping"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "records",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/records"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "produce-market",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/produce-market"
+                },
+                "description": "",
+                "title": "Garden Mapping",
+                "content": ""
+              }]
+            },
+            "records": {
+              "ownKey": "records",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "records",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/records"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "farm-plan",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/farm-plan"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "garden-mapping",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/garden-mapping"
+                },
+                "description": "",
+                "title": "Records",
+                "content": ""
+              }]
+            },
+            "credits": {
+              "ownKey": "credits",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "credits",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/credits"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "extension",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/extension"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "farm-plan",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/farm-plan"
+                },
+                "description": "",
+                "title": "Credits",
+                "content": ""
+              }]
+            },
+            "produce-market": {
+              "ownKey": "produce-market",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "produce-market",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/produce-market"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "garden-mapping",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/garden-mapping"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "agri-shop",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/agri-shop"
+                },
+                "description": "",
+                "title": "Produce Market",
+                "content": ""
+              }]
+            },
+            "farm-plan": {
+              "ownKey": "farm-plan",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "farm-plan",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/farm-plan"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "credits",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/credits"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "records",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/records"
+                },
+                "description": "",
+                "title": "Farm Plan",
+                "content": ""
+              }]
+            },
+            "agri-shop": {
+              "ownKey": "agri-shop",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "agri-shop",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/agri-shop"
+                },
+                "next": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "produce-market",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/produce-market"
+                },
+                "previous": {
+                  "path": "wiki",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "features",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features"
+                },
+                "description": "",
+                "title": "Agri Shop",
+                "content": ""
+              }]
+            },
+            "fertigation": {
+              "ownKey": "fertigation",
+              "ownPages": [{
+                "reference": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "fertigation",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/fertigation"
+                },
+                "next": {
+                  "path": "wiki",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "extending",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/extending"
+                },
+                "previous": {
+                  "path": "wiki/features",
+                  "baseUrl": "https://ezyagric.github.io",
+                  "fileName": "extension",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "https://ezyagric.github.io/wiki/features/extension"
+                },
+                "description": "",
+                "title": "Fertigation",
+                "content": ""
+              }]
+            }
+          },
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "features",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/features"
+            },
+            "next": {
+              "path": "wiki/features",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "agri-shop",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/features/agri-shop"
+            },
+            "previous": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "docs",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/docs"
+            },
+            "description": "",
+            "title": "Features",
+            "content": ""
+          }]
+        },
+        "docs": {
+          "ownKey": "docs",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "docs",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/docs"
+            },
+            "next": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "features",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/features"
+            },
+            "previous": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "configuration",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/configuration"
+            },
+            "description": "",
+            "title": "Docs",
+            "content": "<p>To deploy an updated Orchid doc, first create a <code>orchid.properties<\/code> file in <code>docs<\/code> folder with the format.<\/p>\n<pre><code class=\"language-properties\">BASE_URL=&lt;DOCS BASE URL&gt;\nGITHUB_TOKEN=&lt;GITHUB TOKEN&gt;\n<\/code><\/pre>\n<p>Now traverse to <code>src/orchid/resources/config.yml<\/code> and update the github pages configuration with yours with the format.<\/p>\n<pre><code class=\"language-yaml\">services:\n  publications:\n    stages:\n      - type: 'githubPages'\n        branch: 'gh-pages'\n        username: '&lt;GITHUB USERNAME&gt;' # the username which created the personal access token\n        repo: '&lt;GITHUB REPO&gt;' # the repo to publish to\n<\/code><\/pre>\n<p>Finally deploy an update to github by running the command.<\/p>\n<pre><code class=\"language-bash\">./gradlew orchidDeploy -PorchidEnvironment=prod \n<\/code><\/pre>\n"
+          }]
+        },
+        "configuration": {
+          "ownKey": "configuration",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "configuration",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/configuration"
+            },
+            "next": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "docs",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/docs"
+            },
+            "previous": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "installation",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/installation"
+            },
+            "description": "",
+            "title": "Basic Configuration",
+            "content": "<p>Most of the app configurations are managed remotely via remote configs.<\/p>\n<h3 id=\"manually-testing-a-configuration\"><a href=\"#manually-testing-a-configuration\" id=\"manually-testing-a-configuration\" class=\"anchor\"><\/a>Manually testing a configuration<\/h3>\n<p>To manually test a configuration, For example a gateway link.<\/p>\n<p>Traverse to the <a href=\"https://ezyagric.github.io/kotlindoc/com/ezyagric/extension/android/remoteconfigutils\">RemoteConfigUtils.java<\/a> and replace it's configuration source with your manual version.<\/p>\n<pre><code class=\"language-java\">// RemoteConfigUtils.java\n...\n    public String couchBaseUrl() {\n        return prefManager.getRemoteConfig(&quot;COUCHBASE_URL&quot;, &quot;http://XX.XXX.XXX.XXX:XXXX/ezyagric/&quot;);\n    }\n...\n<\/code><\/pre>\n<p>Replace with<\/p>\n<pre><code class=\"language-java\">// RemoteConfigUtils.java\n...\n    public String couchBaseUrl() {\n        return &quot;YOUR_CONFIGURATION&quot;;\n    }\n...\n<\/code><\/pre>\n<blockquote>\n<p>Note: Don't forget to restore the existing configuration before <strong>sending a pull request<\/strong> to main branch.<\/p>\n<\/blockquote>\n<h3 id=\"other-configurations\"><a href=\"#other-configurations\" id=\"other-configurations\" class=\"anchor\"><\/a>Other configurations<\/h3>\n<p>There are other configurations that do not affect the day to day function of the app but provide for clean code and re-usability.<\/p>\n<p>These can be found in the <a href=\"https://ezyagric.github.io/kotlindoc/com/ezyagric/extension/android/common/config\">CONFIG.java<\/a> file that mostly contains video configurations and <a href=\"https://ezyagric.github.io/kotlindoc/com/ezyagric/extension/android/utils/appconstants\">AppConstants.java<\/a> that provides preference and other configs.<\/p>\n<blockquote>\n<p>Note: These configurations should be merged to provide for cleaner code architecture.<\/p>\n<\/blockquote>\n"
+          }]
+        },
+        "installation": {
+          "ownKey": "installation",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "installation",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/installation"
+            },
+            "next": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "configuration",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/configuration"
+            },
+            "description": "",
+            "title": "Installation",
+            "content": "<p>To setup this app depends on the main app as well as three other inhouse libraries:-<\/p>\n<ul>\n<li><code>ezyagric_db<\/code> for database management. <a href=\"https://github.com/ezyagric/ezyagric_db\" class=\"icon fa-github\"><span class=\"label\">github<\/span><\/a><\/li>\n<li><code>ezyagric_core<\/code> for base classes &amp; helpers. <a href=\"https://github.com/ezyagric/ezyagric_core_android\" class=\"icon fa-github\"><span class=\"label\">github<\/span><\/a><\/li>\n<li><code>ezyagric_ui<\/code> for loaders and UI related re-usables. <a href=\"https://github.com/ezyagric/ezyagric_ui_android\" class=\"icon fa-github\"><span class=\"label\">github<\/span><\/a><\/li>\n<\/ul>\n<h3 id=\"building-the-app\"><a href=\"#building-the-app\" id=\"building-the-app\" class=\"anchor\"><\/a>Building the App<\/h3>\n<p>First, clone the repo:<\/p>\n<p><code>git clone https://github.com/ezyagric/ezyagric_farmer_app_2020.git<\/code><\/p>\n<h4 id=\"setting-up-the-inhouse-libraries\"><a href=\"#setting-up-the-inhouse-libraries\" id=\"setting-up-the-inhouse-libraries\" class=\"anchor\"><\/a>Setting up the inhouse libraries<\/h4>\n<hr />\n<p>Next, you will need github authorization to the modules above then add a jitpack github token to your global.<\/p>\n<p>Step 1. Authorize JitPack and get your personal access token:<\/p>\n<p>Step 2. Add the token to $HOME/.gradle/gradle.properties<\/p>\n<p><code>authToken= &lt;JITPACK_AUTH_TOKEN&gt;<\/code><\/p>\n<blockquote>\n<p>Note if you can't access the libraries, request DevOps team to provide you the JitPack auth code<\/p>\n<\/blockquote>\n"
+          }]
+        },
+        "extending": {
+          "ownKey": "extending",
+          "ownPages": [{
+            "reference": {
+              "path": "wiki",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "extending",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/extending"
+            },
+            "previous": {
+              "path": "wiki/features",
+              "baseUrl": "https://ezyagric.github.io",
+              "fileName": "fertigation",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "https://ezyagric.github.io/wiki/features/fertigation"
+            },
+            "description": "",
+            "title": "Extending",
+            "content": ""
+          }]
+        }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "",
+          "baseUrl": "https://ezyagric.github.io",
+          "fileName": "wiki",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "https://ezyagric.github.io/wiki"
+        },
+        "description": "",
+        "title": "Wiki",
+        "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://ezyagric.github.io/wiki/installation\">Installation<\/a><\/li> \n   <li><a href=\"https://ezyagric.github.io/wiki/configuration\">Basic Configuration<\/a><\/li> \n   <li><a href=\"https://ezyagric.github.io/wiki/docs\">Docs<\/a><\/li> \n   <li><a href=\"https://ezyagric.github.io/wiki/features\">Features<\/a> \n    <ul> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/agri-shop\">Agri Shop<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/produce-market\">Produce Market<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/garden-mapping\">Garden Mapping<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/records\">Records<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/farm-plan\">Farm Plan<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/credits\">Credits<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/extension\">Better Extension<\/a><\/li> \n     <li><a href=\"https://ezyagric.github.io/wiki/features/fertigation\">Fertigation<\/a><\/li> \n    <\/ul> <\/li> \n   <li><a href=\"https://ezyagric.github.io/wiki/extending\">Extending<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+      }]
+    }
+  },
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://ezyagric.github.io",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "https://ezyagric.github.io"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<h1 id=\"kotlinproject\"><a href=\"#kotlinproject\" id=\"kotlinproject\" class=\"anchor\"><\/a>KotlinProject<\/h1>\n<p>This is a short description of this project.<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://ezyagric.github.io",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "https://ezyagric.github.io/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}

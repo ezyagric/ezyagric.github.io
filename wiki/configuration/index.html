@@ -1,0 +1,416 @@
+<!DOCTYPE HTML>
+<!--
+    Editorial by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+
+
+
+
+
+
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+<meta name="generator" content="Orchid 0.21.0"/>
+<link rel="icon" href="https://ezyagric.github.io/favicon.ico">
+
+
+<meta name="robots" content="index, follow">
+
+
+
+<title>Basic Configuration</title>
+
+
+<meta name="description" content="Conclusive wiki on app.">
+
+
+
+<link rel="prev" href="https://ezyagric.github.io/wiki/installation">
+
+
+<link rel="next" href="https://ezyagric.github.io/wiki/docs">
+
+
+<!-- start:inject styles -->
+<link rel="stylesheet" type="text/css" href="https://ezyagric.github.io/Editorial/8452fc2a/assets/css/editorial_main.css"  />
+<link rel="stylesheet" type="text/css" href="https://ezyagric.github.io/Editorial/8452fc2a/assets/css/editorial_orchidCustomizations.css"  />
+<link rel="stylesheet" type="text/css" href="https://ezyagric.github.io/Editorial/8452fc2a/assets/css/orchidSearch.css"  />
+<link rel="stylesheet" type="text/css" href="https://ezyagric.github.io/assets/css/orchidSearch.css"  />
+<!-- end:inject styles -->
+
+
+
+<script>
+    window.site = {"orchidVersion":"0.21.0","baseUrl":"https://ezyagric.github.io","environment":"prod","version":"1.0.0"};
+</script>
+
+
+    <!-- start:inject meta-components [head] -->
+    
+
+        
+            
+        
+
+        
+            
+        
+    
+    <!-- end:inject meta-components [head] -->
+
+
+
+    <!-- start:inject meta-components [head] -->
+    
+    <!-- end:inject meta-components [head] -->
+
+
+
+
+
+
+
+</head>
+<body class="is-loading">
+
+
+
+
+
+    <!-- start:inject meta-components [bodyStart] -->
+    
+
+        
+            
+        
+
+        
+    
+    <!-- end:inject meta-components [bodyStart] -->
+
+
+
+    <!-- start:inject meta-components [bodyStart] -->
+    
+    <!-- end:inject meta-components [bodyStart] -->
+
+
+
+
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Main -->
+    <div id="main">
+        <div class="inner">
+
+            <!-- Header -->
+            
+                <header id="header">
+    <a href="https://ezyagric.github.io" class="logo">EzyAgric Farmer</a>
+    <ul class="icons">
+    
+    
+        <li>
+            <a href="https://github.com/ezyagric/ezyagric_farmer_app_2020" class="icon fa-github">
+                <span class="label">github</span>
+            </a>
+        </li>
+    
+    
+    </ul>
+</header>
+
+            
+            
+            
+            
+                <section id="pageContent">
+                    <header class="major"><h2>Basic Configuration</h2></header>
+                    <article>
+                        
+    <!-- start:inject components -->
+    
+        
+            
+                
+                    
+                        <p>Most of the app configurations are managed remotely via remote configs.</p>
+<h3 id="manually-testing-a-configuration"><a href="#manually-testing-a-configuration" id="manually-testing-a-configuration" class="anchor"></a>Manually testing a configuration</h3>
+<p>To manually test a configuration, For example a gateway link.</p>
+<p>Traverse to the <a href="https://ezyagric.github.io/kotlindoc/com/ezyagric/extension/android/remoteconfigutils">RemoteConfigUtils.java</a> and replace it's configuration source with your manual version.</p>
+<pre><code class="language-java">// RemoteConfigUtils.java
+...
+    public String couchBaseUrl() {
+        return prefManager.getRemoteConfig(&quot;COUCHBASE_URL&quot;, &quot;http://XX.XXX.XXX.XXX:XXXX/ezyagric/&quot;);
+    }
+...
+</code></pre>
+<p>Replace with</p>
+<pre><code class="language-java">// RemoteConfigUtils.java
+...
+    public String couchBaseUrl() {
+        return &quot;YOUR_CONFIGURATION&quot;;
+    }
+...
+</code></pre>
+<blockquote>
+<p>Note: Don't forget to restore the existing configuration before <strong>sending a pull request</strong> to main branch.</p>
+</blockquote>
+<h3 id="other-configurations"><a href="#other-configurations" id="other-configurations" class="anchor"></a>Other configurations</h3>
+<p>There are other configurations that do not affect the day to day function of the app but provide for clean code and re-usability.</p>
+<p>These can be found in the <a href="https://ezyagric.github.io/kotlindoc/com/ezyagric/extension/android/common/config">CONFIG.java</a> file that mostly contains video configurations and <a href="https://ezyagric.github.io/kotlindoc/com/ezyagric/extension/android/utils/appconstants">AppConstants.java</a> that provides preference and other configs.</p>
+<blockquote>
+<p>Note: These configurations should be merged to provide for cleaner code architecture.</p>
+</blockquote>
+
+                    
+                
+            
+        
+    
+    <!-- end:inject components -->
+
+
+                    </article>
+                </section>
+            
+        </div>
+        <hr>
+
+        <!-- Page Footer -->
+        <div class="inner">
+    <footer id="footer">
+        <div class="clearfix">
+            
+                <div class="float-left">
+                    <a href="https://ezyagric.github.io/wiki/installation" class="button special small pill">
+                        <span>&larr;</span> Installation
+                    </a>
+                </div>
+            
+            
+                <div class="float-right">
+                    <a href="https://ezyagric.github.io/wiki/docs" class="button special small pill">
+                        Docs<span>&rarr;</span>
+                    </a>
+                </div>
+            
+        </div>
+    </footer>
+</div>
+
+    </div>
+
+    <!-- Sidebar -->
+    <div id="sidebar">
+    <div class="inner">
+
+        <!-- Search -->
+        <section id="search" class="alt">
+            <form data-orchid-search="">
+                <input type="text" name="query" id="query" placeholder="Search"/>
+            </form>
+            <div class="box" id="search-results" data-orchid-search-results style="display: none;">
+                <b>Search Results</b>
+                <ul></ul>
+            </div>
+            <div class="box" id="search-progress" data-orchid-search-progress style="display: none;">
+                <div class="loader">Loading...</div>
+            </div>
+        </section>
+
+        <!-- Menu -->
+        <nav id="siteNav" class="menu">
+            <header class="major">
+                <h2>EzyAgric Farmer</h2>
+            </header>
+            <ul class="top-level">
+                
+                    
+    
+    <li>
+        <a class="subheader">Wiki</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/installation">Installation</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/configuration">Basic Configuration</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/docs">Docs</a>
+    </li>
+    
+
+                
+                    
+    <li>
+        <span class="opener">Features</span>
+        <ul>
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/agri-shop">Agri Shop</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/produce-market">Produce Market</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/garden-mapping">Garden Mapping</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/records">Records</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/farm-plan">Farm Plan</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/credits">Credits</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/extension">Better Extension</a>
+    </li>
+    
+
+        
+            
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/features/fertigation">Fertigation</a>
+    </li>
+    
+
+        
+        </ul>
+    </li>
+
+                
+                    
+    
+    <li>
+        <a href="https://ezyagric.github.io/wiki/extending">Extending</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a class="subheader">App Docs</a>
+    </li>
+    
+
+                
+            </ul>
+        </nav>
+        
+
+        <!-- Section -->
+        <section>
+            <p class="text-center">
+                Currently 1.0.0. Created with <a href="https://orchid.run">Orchid </a> and <b>Orchid Editorial Theme</b>.
+            </p>
+        </section>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <p class="copyright text-center">&copy; EzyAgric Farmer. All rights reserved.<br>Design by <a href="https://html5up.net">HTML5 UP</a></p>
+        </footer>
+
+    </div>
+</div>
+
+</div>
+
+
+
+
+
+
+    <!-- start:inject meta-components [bodyEnd] -->
+    
+
+        
+            
+        
+
+        
+    
+    <!-- end:inject meta-components [bodyEnd] -->
+
+
+
+    <!-- start:inject meta-components [bodyEnd] -->
+    
+    <!-- end:inject meta-components [bodyEnd] -->
+
+
+
+
+<!-- start:inject scripts -->
+<script  src="https://ezyagric.github.io/Editorial/8452fc2a/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script  src="https://ezyagric.github.io/Editorial/8452fc2a/ajax/libs/skel/3.0.1/skel.min.js"></script>
+<script  src="https://ezyagric.github.io/Editorial/8452fc2a/assets/js/editorial_util.js"></script>
+<script  src="https://ezyagric.github.io/Editorial/8452fc2a/assets/js/editorial_main.js"></script>
+<script  src="https://ezyagric.github.io/Editorial/8452fc2a/assets/js/editorial_orchidCustomizations.js"></script>
+<script  src="https://ezyagric.github.io/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script  src="https://ezyagric.github.io/lunr/lunr.js"></script>
+<script  src="https://ezyagric.github.io/assets/js/orchidSearch.js"></script>
+<!-- end:inject scripts -->
+
+
+</body>
+</html>

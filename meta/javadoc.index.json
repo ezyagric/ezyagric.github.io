@@ -1,0 +1,267 @@
+{
+  "ownKey": "javadoc",
+  "childrenPages": {"javadoc": {
+    "ownKey": "javadoc",
+    "childrenPages": {"app": {
+      "ownKey": "app",
+      "childrenPages": {
+        "shop": {
+          "ownKey": "shop",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "shop",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/shop"
+            },
+            "description": "",
+            "title": "Shop",
+            "content": ""
+          }]
+        },
+        "app-data": {
+          "ownKey": "app-data",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "app-data",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/app-data"
+            },
+            "description": "",
+            "title": "App Data",
+            "content": ""
+          }]
+        },
+        "auth": {
+          "ownKey": "auth",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "auth",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/auth"
+            },
+            "description": "",
+            "title": "Auth",
+            "content": ""
+          }]
+        },
+        "ezy-credits": {
+          "ownKey": "ezy-credits",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "ezy-credits",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/ezy-credits"
+            },
+            "description": "",
+            "title": "credits",
+            "content": ""
+          }]
+        },
+        "fm": {
+          "ownKey": "fm",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "fm",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/fm"
+            },
+            "description": "",
+            "title": "FM",
+            "content": ""
+          }]
+        },
+        "app-common": {
+          "ownKey": "app-common",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "app-common",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/app-common"
+            },
+            "description": "",
+            "title": "App Common",
+            "content": "<h1 id=\"ezyagric-farmer-app-2020\"><a href=\"#ezyagric-farmer-app-2020\" id=\"ezyagric-farmer-app-2020\" class=\"anchor\"><\/a>ezyagric_farmer_app_2020<\/h1>\n<p>This will hold all the code relating to the farmer app that will be deployed on google playstore<\/p>\n"
+          }]
+        },
+        "app-usage": {
+          "ownKey": "app-usage",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "app-usage",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/app-usage"
+            },
+            "description": "",
+            "title": "App Usage",
+            "content": ""
+          }]
+        },
+        "app-updates": {
+          "ownKey": "app-updates",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "app-updates",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/app-updates"
+            },
+            "description": "",
+            "title": "App Updates",
+            "content": ""
+          }]
+        },
+        "services": {
+          "ownKey": "services",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "services",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/services"
+            },
+            "description": "",
+            "title": "Services",
+            "content": ""
+          }]
+        },
+        "walk-through": {
+          "ownKey": "walk-through",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "walk-through",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/walk-through"
+            },
+            "description": "",
+            "title": "Walk Through",
+            "content": ""
+          }]
+        },
+        "fertigation": {
+          "ownKey": "fertigation",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "fertigation",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/fertigation"
+            },
+            "description": "",
+            "title": "fertigation",
+            "content": ""
+          }]
+        },
+        "market": {
+          "ownKey": "market",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "market",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/market"
+            },
+            "description": "",
+            "title": "market",
+            "content": ""
+          }]
+        },
+        "app-di": {
+          "ownKey": "app-di",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "app-di",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/app-di"
+            },
+            "description": "",
+            "title": "App DI",
+            "content": ""
+          }]
+        },
+        "utils": {
+          "ownKey": "utils",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "utils",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/utils"
+            },
+            "description": "",
+            "title": "Utils",
+            "content": ""
+          }]
+        },
+        "better-extension": {
+          "ownKey": "better-extension",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "better-extension",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/better-extension"
+            },
+            "description": "",
+            "title": "extension",
+            "content": ""
+          }]
+        },
+        "dashboard": {
+          "ownKey": "dashboard",
+          "ownPages": [{
+            "reference": {
+              "path": "javadoc/app",
+              "baseUrl": "http://localhost:8080",
+              "fileName": "dashboard",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "http://localhost:8080/javadoc/app/dashboard"
+            },
+            "description": "",
+            "title": "Dashboard",
+            "content": ""
+          }]
+        }
+      }
+    }}
+  }}
+}
